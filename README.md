@@ -6,4 +6,4 @@ Master branch kullanılacak ve buraya gönderilen kodla ilgili bir şeyler yazı
 Insertion sort kullanarak yapılan bir sıralama (Şükriye Soyer)
 
 
-Merhabalar, eklendi (resatyavcin)
+### Merhabalar, eklendi (resatyavcin)
