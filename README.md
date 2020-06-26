@@ -7,3 +7,5 @@ Insertion sort kullanarak yapılan bir sıralama (Şükriye Soyer)
 
 
 ### Merhabalar, eklendi (resatyavcin)
+
+### Merhaba, merhaba.txt dosyası ekledim.(elifmuslu)
