@@ -12,3 +12,4 @@ Insertion sort kullanarak yapılan bir sıralama (Şükriye Soyer)
 
 tuba.txt dosyasını ekledim.(Tuba-k)
 ### Merhablar , baloncuk sıralama algortiması eklendi .(Mehmet Hanifi ARSLAN) 
+### 'text.txt' dosyasını ekledim. (F. Rümeysa ORHAN)
