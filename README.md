@@ -14,3 +14,5 @@ tuba.txt dosyasını ekledim.(Tuba-k)
 ### Merhablar , baloncuk sıralama algortiması eklendi .(Mehmet Hanifi ARSLAN) 
 ### 'text.txt' dosyasını ekledim. (F. Rümeysa ORHAN)
 ### Counting sort algoritma dosyası eklendi. (Erkan Pulat)
+
+### C++ dilinde yazılmış dizilerin terimlerini toplayan basit kod eklendi.(Merve AYAZ)
