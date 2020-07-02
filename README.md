@@ -16,3 +16,7 @@ tuba.txt dosyasını ekledim.(Tuba-k)
 ### Counting sort algoritma dosyası eklendi. (Erkan Pulat)
 
 ### C++ dilinde yazılmış dizilerin terimlerini toplayan basit kod eklendi.(Merve AYAZ)
+
+
+### To Do List yapıyordum yarım kaldı ama yine de paylaşayım dedim. 2 gün süre verildiği için.Zaten görevimiz sanırım herhangi bir Angular App oluşturup koymaktı.
+tnhx.(resatyavcin)
