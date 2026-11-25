@@ -44,3 +44,37 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Bütün alt projeler için
+node_modules/
+dist/
+.idea/
+*.iml
+.env
+*.log
+
+# Kök klasöre kopyalanmış Angular derleme çıktısı
+/index.html
+/favicon.ico
+/main.js
+/polyfills.js
+/runtime.js
+/styles.js
+/vendor.js
+/*.js.map
+
+# Java / Maven
+target/
+*.class
+
+# Visual Studio (C++) çıktısı ve kullanıcı ayarları
+.vs/
+Debug/
+Release/
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.exe
